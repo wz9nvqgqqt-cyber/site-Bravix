@@ -1,0 +1,24 @@
+{
+  "file": "filme-galpao.mp4",
+  "poster": "poster-filme.webp",
+  "mobileFile": "filme-galpao-mobile.mp4",
+  "mobileWidth": 960,
+  "mobileHeight": 540,
+  "mobileBytes": 5202181,
+  "duration": 38.5,
+  "width": 1280,
+  "height": 720,
+  "fps": 24,
+  "frames": 924,
+  "codec": "H.264 High / yuv420p",
+  "audio": false,
+  "faststart": true,
+  "bytes": 15800081,
+  "transitionSeconds": 0.5,
+  "chapters": [
+    { "title": "Fachada", "start": 0, "end": 9.5, "sourceDuration": 10, "source": "Camera_moving_through_warehouse_…_20260930093046.mp4" },
+    { "title": "Implantação", "start": 9.5, "end": 19, "sourceDuration": 10, "source": "Camera_tracking_architectural_pr…_20260930090505.mp4" },
+    { "title": "Interior", "start": 19, "end": 28.5, "sourceDuration": 10, "source": "Warehouse_architectural_presenta…_20260930090245.mp4" },
+    { "title": "Operação", "start": 28.5, "end": 38.5, "sourceDuration": 10, "source": "Yellow_forklift_moving_in_warehouse_20260930093315.mp4" }
+  ]
+}

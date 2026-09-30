@@ -1,0 +1,256 @@
+{
+  "schema": 1,
+  "directory": "dist",
+  "files": [
+    {
+      "path": "assets/estudo-conceitual.png",
+      "bytes": 2551996,
+      "sha256": "50c77fbd743a029a088efdbe2034e4995fe9a87c811fb8d993cf34e0823ab844"
+    },
+    {
+      "path": "assets/logo-bravix.png",
+      "bytes": 252252,
+      "sha256": "48146f804a094a2c9592c385c7d233e52d7f7a57d63c7a87316b46e2ac95bcc6"
+    },
+    {
+      "path": "assets/logo-bravix.svg",
+      "bytes": 278762,
+      "sha256": "8daf3b861f5fd09fd4db22d0be3f17e57fefdbb339dc320e7b69ec96cd45f4c7"
+    },
+    {
+      "path": "assets/logo-original.png",
+      "bytes": 68071,
+      "sha256": "5b7fb5107aad0daed080da0c69166124e0d1d796493718513b0a2b94b68f199e"
+    },
+    {
+      "path": "assets/media/docas-thumb.webp",
+      "bytes": 10924,
+      "sha256": "41c93bc0b40d1ed027a2aca14b14552d03c3f9f8c26441d5d6f7d8964933d21b"
+    },
+    {
+      "path": "assets/media/docas.avif",
+      "bytes": 135153,
+      "sha256": "8a768d71a9c9553f1f672ad55ce8988507fcd620145cbf2b5488e0eb9d35dc51"
+    },
+    {
+      "path": "assets/media/docas.webp",
+      "bytes": 244728,
+      "sha256": "6940918e02be8b25612a712e2fb20851ec598104a6a19c54fb674c5d031e9434"
+    },
+    {
+      "path": "assets/media/estrutura-thumb.webp",
+      "bytes": 13128,
+      "sha256": "aced5b35dc6af01ab8dd7a6c209cb82c4faf3d1a5bb1f42896ecca74f4fa5f9e"
+    },
+    {
+      "path": "assets/media/estrutura.avif",
+      "bytes": 184385,
+      "sha256": "df48c22f238cac877a15efc1253be6d4a6a8b3e79c89040e2e779a9fc1bdd3af"
+    },
+    {
+      "path": "assets/media/estrutura.webp",
+      "bytes": 329416,
+      "sha256": "961638bc7b25dd715a30dece51ba7f060eab4a5392addf79ebe9b21845763e66"
+    },
+    {
+      "path": "assets/media/fachada-dia-thumb.webp",
+      "bytes": 7370,
+      "sha256": "2f3eede1daa5d0548ad7785ad937e79062d4b34f8b55a796e1a426f10ebc1630"
+    },
+    {
+      "path": "assets/media/fachada-dia.avif",
+      "bytes": 119257,
+      "sha256": "3254ee167f5b06419f9576fa8695c974672c95cc9caa237b6ea70a66f85854ae"
+    },
+    {
+      "path": "assets/media/fachada-dia.webp",
+      "bytes": 215300,
+      "sha256": "546a829802d235d9d3afd80c25d99a14f254012c691d54020759c8563afcf991"
+    },
+    {
+      "path": "assets/media/fachada-entardecer-thumb.webp",
+      "bytes": 9236,
+      "sha256": "04aefd6e33075f11c0fdc0a2eaba2499f71e02760c4ef84cbee0ff5ce15ab721"
+    },
+    {
+      "path": "assets/media/fachada-entardecer.avif",
+      "bytes": 134724,
+      "sha256": "284f5c76d17b01c676cefea3bcffcac6a9446a227adf59afc7ca991b07fb8866"
+    },
+    {
+      "path": "assets/media/fachada-entardecer.webp",
+      "bytes": 244464,
+      "sha256": "e084a30f33aa51fdb3b4e7d61b9137ac12f48c74af2250db2d9cd5c6edc1590f"
+    },
+    {
+      "path": "assets/media/fachada-noite-thumb.webp",
+      "bytes": 8236,
+      "sha256": "cea6449edeb062f4b2f08a5f1ad5b2df8e2a310415d718d3bda7fb1d213d3750"
+    },
+    {
+      "path": "assets/media/fachada-noite.avif",
+      "bytes": 113169,
+      "sha256": "5e1020af951ff4cf2417e214aa8bb8244d19e0676d26cc2663eb733d2b7047a3"
+    },
+    {
+      "path": "assets/media/fachada-noite.webp",
+      "bytes": 195888,
+      "sha256": "5d3022acc8baed1d6f2a812ec1c1dcefa9b4735b988728292e7a62824941452b"
+    },
+    {
+      "path": "assets/media/filme-galpao-mobile.mp4",
+      "bytes": 5202181,
+      "sha256": "4168b3a647d50b5c65a78d6f43802389c6cd9f071ed5a0e5e2a01140995b8456"
+    },
+    {
+      "path": "assets/media/filme-galpao.json",
+      "bytes": 992,
+      "sha256": "a586344a9278218f693a88aa6a1d857a6c2ab3e53e573d32b2591f9be47b5540"
+    },
+    {
+      "path": "assets/media/filme-galpao.mp4",
+      "bytes": 15800081,
+      "sha256": "b9e83d778d51e8a03e5d610bcda68885578baa11c1ad2fb5b7643c58a0a30da4"
+    },
+    {
+      "path": "assets/media/implantacao-thumb.webp",
+      "bytes": 15290,
+      "sha256": "a40cf89a6d586bef579d114c3a06491928403853c6ff02958f50d1e69ccb141e"
+    },
+    {
+      "path": "assets/media/implantacao.avif",
+      "bytes": 215098,
+      "sha256": "eb54cf2425516efc7266fc013cf525f62197a451a9a61a27504158c01994abd6"
+    },
+    {
+      "path": "assets/media/implantacao.webp",
+      "bytes": 404730,
+      "sha256": "8979cc21f62fc9c3066a80e0283929977f4d52368c628fbc12ab5f9a0435f494"
+    },
+    {
+      "path": "assets/media/interior-acessos-thumb.webp",
+      "bytes": 14412,
+      "sha256": "92ac24363434c40d5325b45723dc373f7d073680742e1d037079550c3f43c42a"
+    },
+    {
+      "path": "assets/media/interior-acessos.avif",
+      "bytes": 184012,
+      "sha256": "3b80712f7053eb8bab8e4c5739b76a82cbf32036703314cf3e6b485bc25ca604"
+    },
+    {
+      "path": "assets/media/interior-acessos.webp",
+      "bytes": 337620,
+      "sha256": "526f4ee1ab9581ead3159594d68ef20c4b2f61ff7b62e5ac32e401eefa4e5dec"
+    },
+    {
+      "path": "assets/media/interior-docas-thumb.webp",
+      "bytes": 13442,
+      "sha256": "130a3823f50fc6c52e3db84fb66a1c1bee0b354a1a9b504bdacd4d41b4ae58c7"
+    },
+    {
+      "path": "assets/media/interior-docas.avif",
+      "bytes": 170780,
+      "sha256": "f6a8d61a6cad737ded26969feb466619a31a20d3f85b7a34ddc592955094ef7c"
+    },
+    {
+      "path": "assets/media/interior-docas.webp",
+      "bytes": 305034,
+      "sha256": "eb243caea2b87102744763672c487c3d41d10f8205a81ea1d78e8ccd0e63dc76"
+    },
+    {
+      "path": "assets/media/mezanino-thumb.webp",
+      "bytes": 13114,
+      "sha256": "97934f0f9017780488d9dee5fece9e3af8765b99c173894f796f7fb44afaa614"
+    },
+    {
+      "path": "assets/media/mezanino.avif",
+      "bytes": 142646,
+      "sha256": "007b9f36b9c35ff75aacc4a5d969ec3d1b9815a6216a3fc72102f4518e847ad3"
+    },
+    {
+      "path": "assets/media/mezanino.webp",
+      "bytes": 254582,
+      "sha256": "b68d24ed8564ac316b457f6f280099d42b7fc7f28a665ceddef40e9ae78b8296"
+    },
+    {
+      "path": "assets/media/operacao-corte-thumb.webp",
+      "bytes": 13962,
+      "sha256": "1583aee6423029e56aeb5c590c623532edd2e8c8bc835aad907e22d6ca0520be"
+    },
+    {
+      "path": "assets/media/operacao-corte.avif",
+      "bytes": 201885,
+      "sha256": "216857fe5c2470e50b647b4b2810fb0ae36d6f448e2a572b4803df6b380fdcb9"
+    },
+    {
+      "path": "assets/media/operacao-corte.webp",
+      "bytes": 358954,
+      "sha256": "dd6848d02122337b8f1d8512b05a694a59616207fa0dac3048d429311062bedb"
+    },
+    {
+      "path": "assets/media/poster-filme.webp",
+      "bytes": 133940,
+      "sha256": "23fcd7694430b39dbd166db65ec6ebccadec8751b4b7e2b0524f5c0489e1716d"
+    },
+    {
+      "path": "blueprint.js",
+      "bytes": 30697,
+      "sha256": "62dc1ed605a6d9347ff276ef643100205676e987fc8b52dda9e652987216945e"
+    },
+    {
+      "path": "experience.css",
+      "bytes": 24268,
+      "sha256": "936e6f3f471eee364e6bb42ee1682ee0a78f1ee4bb0fa677329c5aa2090d75ba"
+    },
+    {
+      "path": "experience.js",
+      "bytes": 12782,
+      "sha256": "72a16c013308e94cf237070c4531dea2843ec5e8a7fe8f928a2c9740b740aaa3"
+    },
+    {
+      "path": "favicon.svg",
+      "bytes": 251,
+      "sha256": "c4f0c8240693124bbdee1eb0001d048585706274372e8dec3f75edd43216acb8"
+    },
+    {
+      "path": "index.html",
+      "bytes": 28537,
+      "sha256": "a81dbc32b57dfe100b75031eb22380749118b85d5af5c2a1ce8de10b4365c35d"
+    },
+    {
+      "path": "overrides.css",
+      "bytes": 697,
+      "sha256": "2d47696aca617d3c3d7b14815c8a3cd42a3201fa0765e709c1166e90369f8583"
+    },
+    {
+      "path": "script.js",
+      "bytes": 7372,
+      "sha256": "cd5be7a41197affa3511bdb3cbb048ca439f0d940b93fff273cb99291582ef23"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 18552,
+      "sha256": "5e64efe5b994a413848a99e2722798f6120ba57d3442ee4e16779f748b04b864"
+    },
+    {
+      "path": "vendor/gsap.min.js",
+      "bytes": 72435,
+      "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6"
+    },
+    {
+      "path": "vendor/ScrollTrigger.min.js",
+      "bytes": 44157,
+      "sha256": "308219390e5e3b84cda0c481e70caa9820883ae10bda44e6e9a149a81aac4b3f"
+    },
+    {
+      "path": "vendor/three.core.js",
+      "bytes": 1403455,
+      "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20"
+    },
+    {
+      "path": "vendor/three.module.js",
+      "bytes": 603113,
+      "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    }
+  ]
+}
